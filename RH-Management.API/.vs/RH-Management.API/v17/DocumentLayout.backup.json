@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lara Santana\\Documents\\Estudo\\projetos\\RH-Management\\RH-Management.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25B57602-975E-4FDE-B1CB-5B3AD385661E}|RH-Management.API.csproj|c:\\users\\lara santana\\documents\\estudo\\projetos\\rh-management\\rh-management.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B57602-975E-4FDE-B1CB-5B3AD385661E}|RH-Management.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B57602-975E-4FDE-B1CB-5B3AD385661E}|RH-Management.API.csproj|c:\\users\\lara santana\\documents\\estudo\\projetos\\rh-management\\rh-management.api\\models\\historicoalteracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B57602-975E-4FDE-B1CB-5B3AD385661E}|RH-Management.API.csproj|solutionrelative:models\\historicoalteracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B57602-975E-4FDE-B1CB-5B3AD385661E}|RH-Management.API.csproj|c:\\users\\lara santana\\documents\\estudo\\projetos\\rh-management\\rh-management.api\\models\\ferias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B57602-975E-4FDE-B1CB-5B3AD385661E}|RH-Management.API.csproj|solutionrelative:models\\ferias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B57602-975E-4FDE-B1CB-5B3AD385661E}|RH-Management.API.csproj|c:\\users\\lara santana\\documents\\estudo\\projetos\\rh-management\\rh-management.api\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B57602-975E-4FDE-B1CB-5B3AD385661E}|RH-Management.API.csproj|solutionrelative:models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B57602-975E-4FDE-B1CB-5B3AD385661E}|RH-Management.API.csproj|c:\\users\\lara santana\\documents\\estudo\\projetos\\rh-management\\rh-management.api\\data\\rhcontext.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B57602-975E-4FDE-B1CB-5B3AD385661E}|RH-Management.API.csproj|solutionrelative:data\\rhcontext.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B57602-975E-4FDE-B1CB-5B3AD385661E}|RH-Management.API.csproj|c:\\users\\lara santana\\documents\\estudo\\projetos\\rh-management\\rh-management.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25B57602-975E-4FDE-B1CB-5B3AD385661E}|RH-Management.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B57602-975E-4FDE-B1CB-5B3AD385661E}|RH-Management.API.csproj|c:\\users\\lara santana\\documents\\estudo\\projetos\\rh-management\\rh-management.api\\controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B57602-975E-4FDE-B1CB-5B3AD385661E}|RH-Management.API.csproj|solutionrelative:controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B57602-975E-4FDE-B1CB-5B3AD385661E}|RH-Management.API.csproj|c:\\users\\lara santana\\documents\\estudo\\projetos\\rh-management\\rh-management.api\\controllers\\feriascontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B57602-975E-4FDE-B1CB-5B3AD385661E}|RH-Management.API.csproj|solutionrelative:controllers\\feriascontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FeriasController .cs",
+              "DocumentMoniker": "C:\\Users\\Lara Santana\\Documents\\Estudo\\projetos\\RH-Management\\RH-Management.API\\Controllers\\FeriasController .cs",
+              "RelativeDocumentMoniker": "Controllers\\FeriasController .cs",
+              "ToolTip": "C:\\Users\\Lara Santana\\Documents\\Estudo\\projetos\\RH-Management\\RH-Management.API\\Controllers\\FeriasController .cs",
+              "RelativeToolTip": "Controllers\\FeriasController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:01:46.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FuncionariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Lara Santana\\Documents\\Estudo\\projetos\\RH-Management\\RH-Management.API\\Controllers\\FuncionariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FuncionariosController.cs",
+              "ToolTip": "C:\\Users\\Lara Santana\\Documents\\Estudo\\projetos\\RH-Management\\RH-Management.API\\Controllers\\FuncionariosController.cs",
+              "RelativeToolTip": "Controllers\\FuncionariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T17:24:34.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lara Santana\\Documents\\Estudo\\projetos\\RH-Management\\RH-Management.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lara Santana\\Documents\\Estudo\\projetos\\RH-Management\\RH-Management.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T17:23:56.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lara Santana\\Documents\\Estudo\\projetos\\RH-Management\\RH-Management.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Lara Santana\\Documents\\Estudo\\projetos\\RH-Management\\RH-Management.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-03T17:22:47.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RHContext.cs.cs",
+              "DocumentMoniker": "C:\\Users\\Lara Santana\\Documents\\Estudo\\projetos\\RH-Management\\RH-Management.API\\Data\\RHContext.cs.cs",
+              "RelativeDocumentMoniker": "Data\\RHContext.cs.cs",
+              "ToolTip": "C:\\Users\\Lara Santana\\Documents\\Estudo\\projetos\\RH-Management\\RH-Management.API\\Data\\RHContext.cs.cs",
+              "RelativeToolTip": "Data\\RHContext.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T17:19:20.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HistoricoAlteracao.cs",
+              "DocumentMoniker": "C:\\Users\\Lara Santana\\Documents\\Estudo\\projetos\\RH-Management\\RH-Management.API\\Models\\HistoricoAlteracao.cs",
+              "RelativeDocumentMoniker": "Models\\HistoricoAlteracao.cs",
+              "ToolTip": "C:\\Users\\Lara Santana\\Documents\\Estudo\\projetos\\RH-Management\\RH-Management.API\\Models\\HistoricoAlteracao.cs",
+              "RelativeToolTip": "Models\\HistoricoAlteracao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T17:18:41.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ferias.cs",
+              "DocumentMoniker": "C:\\Users\\Lara Santana\\Documents\\Estudo\\projetos\\RH-Management\\RH-Management.API\\Models\\Ferias.cs",
+              "RelativeDocumentMoniker": "Models\\Ferias.cs",
+              "ToolTip": "C:\\Users\\Lara Santana\\Documents\\Estudo\\projetos\\RH-Management\\RH-Management.API\\Models\\Ferias.cs",
+              "RelativeToolTip": "Models\\Ferias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T17:17:46.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\Lara Santana\\Documents\\Estudo\\projetos\\RH-Management\\RH-Management.API\\Models\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Models\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\Lara Santana\\Documents\\Estudo\\projetos\\RH-Management\\RH-Management.API\\Models\\Funcionario.cs",
+              "RelativeToolTip": "Models\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T17:16:24.257Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
