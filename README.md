@@ -65,7 +65,3 @@ dotnet restore
 Compile o projeto
 
 Rode a aplicação (F5 ou botão de play no Visual Studio)
-
-A API ficará disponível em:
-
-https://localhost:5001
